@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../hello_world.h"
+#include "./hello_world.h"
 
 using namespace std;
 int main() {
